@@ -209,62 +209,62 @@ a {
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(images/newimg/abdul.jpg);
+    background-image: url(abdul.jpg);
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
 }
 
 .card1 {
-    background-image: url(images/newimg/dobby.jpg);
+    background-image: url(dobby.jpg);
 }
 
 .card2 {
-    background-image: url(images/newimg/anand.jpg);
+    background-image: url(anand.jpg);
 }
 
 .card3 {
-    background-image: url(images/newimg/abdul.jpg);
+    background-image: url(abdul.jpg);
 }
 
 .card4 {
-    background-image: url(images/newimg/manas.jpg);
+    background-image: url(manas.jpg);
 }
 
 .card5 {
-    background-image: url(images/newimg/jai.jpg);
+    background-image: url(jai.jpg);
 }
 
 .card6 {
-    background-image: url(images/newimg/rohit.jpg);
+    background-image: url(rohit.jpg);
 }
 
 .card7 {
-    background-image: url(images/newimg/abhishek.jpg);
+    background-image: url(abhishek.jpg);
 }
 
 .card8 {
-    background-image: url(images/newimg/dontknow.jpg);
+    background-image: url(dontknow.jpg);
 }
 
 .card9 {
-    background-image: url(images/newimg/piyush.jpg);
+    background-image: url(piyush.jpg);
 }
 
 .card10 {
-    background-image: url(images/newimg/yogi.jpg);
+    background-image: url(yogi.jpg);
 }
 
 .card11 {
-    background-image: url(images/newimg/puhpak.jpg);
+    background-image: url(puhpak.jpg);
 }
 
 .card12 {
-    background-image: url(images/newimg/yogi1c.jpg);
+    background-image: url(yogi1c.jpg);
 }
 
 .card13 {
-    background-image: url(images/newimg/bhumikac.jpg);
+    background-image: url(bhumikac.jpg);
 }
 
 .card:hover {
